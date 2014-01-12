@@ -16,11 +16,11 @@
           （3）用Arraylist表示场景中不是地雷的Field的集合。
     方法：（1）getAround(int x, int y)方法实现获取某个格子附近所有格子的功能。
           （2）open(int x, int y)方法实现打开某个格子的功能。
-          （3）内部类GameRunScript用于实现鼠标事件操作。
-          （4）用于绘图的paint方法。               
+          （3）用于绘图的paint方法。
+    内部类：GameRunScript用于实现鼠标事件操作。
           
 ### 3、主框架类MinesFrame
 
     变量：（1）舞台类引用。
           （2）按钮引用。
-    方法：（1）内部类Restart用于实现点击按钮重新开始游戏的功能。
+    内部类：Restart用于实现点击按钮重新开始游戏的功能。
