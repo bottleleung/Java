@@ -25,8 +25,8 @@
     变量：（1）用以处理发牌的计时器dealTimer和用以处理整个游戏过程的计时器playTimer。
           （2）用LinkedList存储总的纸牌、玩家自己的纸牌、系统纸牌和火车。
     方法：（1）play(int player)实现整个游戏过程。
-          （2）内部类：MouseControl实现鼠标的操作。
-                       PlayExecution实现整个游戏过程。
-                       DealExecution实现发牌过程。
+    内部类：MouseControl实现鼠标的操作。
+            PlayExecution实现整个游戏过程。
+            DealExecution实现发牌过程。
 
 ### 4、主框架类TrainGameFrame
