@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<key>part</key>
+	<string>1</string>
+	<dict>
+		<key>fish</key>
+		<string>fish01;fish02;fish03;fish04;fish05;fish06;fish07;fish08;fish09;fish10;fish11;fish12;fish13;fish14;fish15;fish16</string>
+		<key>showProbability</key>
+		<string>10;10;10;10;5;5;5;5;5;5;5;5;5;5;5;5</string>
+		<key>shoalSumInScreen</key>
+		<integer>30</integer>
+		<key>time</key>
+		<integer>300</integer>
+		<key>nextpart</key>
+		<string>2</string>
+		<key>bgMusic</key>
+		<string>bg.ogg</string>
+		<key>background</key>
+		<string>bg/fishlightbg_3.jpg</string>
+	</dict>
+	<key>part</key>
+	<string>2</string>
+	<dict>
+		<key>fish</key>
+		<string>fish01;fish02;fish05;fish07;fish09</string>
+		<key>showProbability</key>
+		<string>35;35;10;10;10</string>
+		<key>shoalSumInScreen</key>
+		<integer>7</integer>
+		<key>time</key>
+		<integer>300</integer>
+		<key>nextpart</key>
+		<string>1</string>
+		<key>bgMusic</key>
+		<string>bg</string>
+		<key>background</key>
+		<string>bg/fishlightbg_1.jpg</string>
+	</dict>
+</plist>

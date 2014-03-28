@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<!--鱼的动作图片配置信息-->
+	<key>fishActConfig</key>
+	<string>fish/fish;fish/fish2;fish/fish3;fish/seamaid</string>
+	<!--鱼的基本信息配置-->
+	<key>fishInfoConfig</key>
+	<string>fish/FishInfo</string>
+</plist>
