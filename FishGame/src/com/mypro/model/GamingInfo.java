@@ -1,7 +1,11 @@
 package com.mypro.model;
 
+import java.io.*;
+import java.nio.Buffer;
 import java.util.ArrayList;
+import java.util.Scanner;
 
+import com.mypro.constant.Constant;
 import com.mypro.mainsurface.MainSurface;
 import com.mypro.manager.ShoalManager;
 //import com.mypro.manager.SoundManager;
@@ -19,8 +23,55 @@ public class GamingInfo {
 	private ShoalManager shoalManager; // 鱼群管理器
 	private float cannonLayoutX;			//大炮旋转X坐标
 	private float cannonLayoutY;			//大炮旋转Y坐标
-	private int score = 100;				//当前的分
-	
+	private int score = 100;//当前的分
+	private int highestScore;//最高分
+
+	/**
+	 *
+	 * @return 从文件读入最高分，覆盖当前的的最高分
+	 */
+	public int getHighestScoreFromeFile(){
+		File file=new File(Constant.HIGHEST_SCORE_PATH);
+		try {
+			if(file.exists()){
+				Scanner scanner=new Scanner(file);
+				highestScore=scanner.nextInt();
+				scanner.close();
+				return highestScore;
+
+			}else{
+				file.createNewFile();
+				highestScore=0;
+				return 0;
+			}
+		}catch (Exception e){
+			e.printStackTrace();
+		}
+		return 0;
+
+	}
+	public int getHighestScore() {
+		return highestScore;
+	}
+
+	/**
+	 * 设置最高分，并写入到文件中
+	 * @param highestScore
+	 */
+	public void setHighestScore(int highestScore) {
+		File file=new File(Constant.HIGHEST_SCORE_PATH);
+		try {
+			file.createNewFile();
+			FileWriter fileWriter=new FileWriter(file);
+			fileWriter.write(highestScore+"");
+			fileWriter.flush();
+			fileWriter.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		this.highestScore = highestScore;
+	}
+
 	public int getScore() {
 		return score;
 	}
@@ -37,6 +88,7 @@ public class GamingInfo {
 	}
 
 	private GamingInfo() {
+		getHighestScoreFromeFile();
 	}
 
 	public static GamingInfo getGamingInfo() {
@@ -117,5 +169,5 @@ public class GamingInfo {
 	public void setPause(boolean isPause) {
 		this.isPause = isPause;
 	}
-	
+
 }
