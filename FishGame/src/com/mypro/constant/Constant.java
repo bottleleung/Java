@@ -72,6 +72,8 @@ public class Constant {
 	public static int GOLD_LAYER = COMPONENTS_LAYER-1;
 	//背景图层
 	public static int BACK_GROUND_LAYER = 0;
-	
-	
+	//最高分保存地址
+	public static String HIGHEST_SCORE_PATH = "score/highest.txt";
+
+
 }

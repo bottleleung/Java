@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bcb9ccc-9a8c-4899-9c41-2b6fa653994a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/base/graphics/Bitmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/base/graphics/Bitmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/base/graphics/Canvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/base/graphics/Canvas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/base/graphics/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/base/graphics/Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/base/graphics/Paint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/base/graphics/Paint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/base/tools/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/base/tools/Log.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/basecomponet/JMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/basecomponet/JMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/constant/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/constant/Constant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/mainsurface/MainSurface$JCanvas$JPaint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/mainsurface/MainSurface$JCanvas$JPaint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/mainsurface/MainSurface$JCanvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/mainsurface/MainSurface$JCanvas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/mainsurface/MainSurface$OnDrawThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/mainsurface/MainSurface$OnDrawThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/mainsurface/MainSurface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/mainsurface/MainSurface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/CannonManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/CannonManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/CannonManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/CannonManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/CatchFishManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/CatchFishManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/CatchFishManager$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/CatchFishManager$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/CatchFishManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/CatchFishManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/FishManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/FishManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/GameInitManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/GameInitManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/GamePartInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/GamePartInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/GamePartManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/GamePartManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/GamePartManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/GamePartManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/HeadFish.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/HeadFish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/ImageConfig$ActConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/ImageConfig$ActConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/ImageConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/ImageConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/ImageManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/ImageManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/LayoutInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/LayoutInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/LayoutManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/LayoutManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/LayoutManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/LayoutManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/PathManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/PathManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/ScoreManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/ScoreManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/ScoreManager$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/ScoreManager$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/ScoreManager$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/ScoreManager$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/ScoreManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/ScoreManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/ShoalManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/ShoalManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/ShoalManager$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/ShoalManager$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/ShoalManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/ShoalManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/manager/XmlManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/manager/XmlManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/Ammo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/Ammo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/BackGround.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/BackGround.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/DrawableAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/DrawableAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/FishGold.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/FishGold.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/FishInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/FishInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/FishingNet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/FishingNet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/GamingInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/GamingInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/HighPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/HighPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/HundredPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/HundredPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/componets/Bottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/componets/Bottom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/componets/BottomGold.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/componets/BottomGold.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/componets/BottomTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/componets/BottomTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/componets/ButtonAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/componets/ButtonAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/componets/Cannon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/componets/Cannon$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/componets/Cannon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/componets/Cannon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/componets/Componet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/componets/Componet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/componets/DownCannonButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/componets/DownCannonButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/componets/UpCannonButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/componets/UpCannonButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/fish/Fish$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/fish/Fish$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/fish/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/fish/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/interfaces/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/interfaces/Button.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/interfaces/Drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/interfaces/Drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/model/interfaces/OnClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/model/interfaces/OnClickListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/threads/FishRunThread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/threads/FishRunThread$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/threads/FishRunThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/threads/FishRunThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/threads/PicActThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/threads/PicActThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/threads/ShotThread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/threads/ShotThread$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/threads/ShotThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/threads/ShotThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/tools/CircleRectangleIntersect.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/tools/CircleRectangleIntersect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/tools/LogTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/tools/LogTools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mypro/tools/Tool.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/mypro/tools/Tool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mypro/basecomponet/AwtMainComponet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mypro/basecomponet/AwtMainComponet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mypro/constant/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mypro/constant/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mypro/model/GamingInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mypro/model/GamingInfo.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mypro/basecomponet/AwtMainComponet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="42" column="40" lean-forward="true" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+              <folding>
+                <element signature="e#1826#2355#0" expanded="true" />
+                <element signature="e#2354#2355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mypro/model/GamingInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+              <folding>
+                <element signature="e#616#622#0" expanded="true" />
+                <element signature="e#1289#1290#0" expanded="true" />
+                <element signature="e#1315#1316#0" expanded="true" />
+                <element signature="e#1753#1754#0" expanded="true" />
+                <element signature="e#1772#1773#0" expanded="true" />
+                <element signature="e#1808#1809#0" expanded="true" />
+                <element signature="e#1833#1834#0" expanded="true" />
+                <element signature="e#1901#1902#0" expanded="true" />
+                <element signature="e#1923#1924#0" expanded="true" />
+                <element signature="e#1948#1949#0" expanded="true" />
+                <element signature="e#1981#1982#0" expanded="true" />
+                <element signature="e#2140#2141#0" expanded="true" />
+                <element signature="e#2162#2163#0" expanded="true" />
+                <element signature="e#2206#2207#0" expanded="true" />
+                <element signature="e#2237#2238#0" expanded="true" />
+                <element signature="e#2274#2275#0" expanded="true" />
+                <element signature="e#2292#2293#0" expanded="true" />
+                <element signature="e#2338#2339#0" expanded="true" />
+                <element signature="e#2361#2362#0" expanded="true" />
+                <element signature="e#2397#2398#0" expanded="true" />
+                <element signature="e#2418#2419#0" expanded="true" />
+                <element signature="e#2466#2467#0" expanded="true" />
+                <element signature="e#2495#2496#0" expanded="true" />
+                <element signature="e#2537#2538#0" expanded="true" />
+                <element signature="e#2563#2564#0" expanded="true" />
+                <element signature="e#2622#2623#0" expanded="true" />
+                <element signature="e#2661#2662#0" expanded="true" />
+                <element signature="e#2693#2694#0" expanded="true" />
+                <element signature="e#2718#2719#0" expanded="true" />
+                <element signature="e#2766#2767#0" expanded="true" />
+                <element signature="e#2803#2804#0" expanded="true" />
+                <element signature="e#2836#2837#0" expanded="true" />
+                <element signature="e#2862#2863#0" expanded="true" />
+                <element signature="e#2912#2913#0" expanded="true" />
+                <element signature="e#2951#2952#0" expanded="true" />
+                <element signature="e#2987#2988#0" expanded="true" />
+                <element signature="e#3014#3015#0" expanded="true" />
+                <element signature="e#3068#3069#0" expanded="true" />
+                <element signature="e#3109#3110#0" expanded="true" />
+                <element signature="e#3145#3146#0" expanded="true" />
+                <element signature="e#3172#3173#0" expanded="true" />
+                <element signature="e#3226#3227#0" expanded="true" />
+                <element signature="e#3267#3268#0" expanded="true" />
+                <element signature="e#3296#3297#0" expanded="true" />
+                <element signature="e#3317#3318#0" expanded="true" />
+                <element signature="e#3359#3360#0" expanded="true" />
+                <element signature="e#3388#3389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mypro/constant/Constant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1128">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/mypro/basecomponet/AwtMainComponet.java" />
+        <option value="$PROJECT_DIR$/src/com/mypro/model/GamingInfo.java" />
+        <option value="$PROJECT_DIR$/src/com/mypro/constant/Constant.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/FishGame.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-4" />
+    <option name="width" value="2560" />
+    <option name="height" value="1444" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FishGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FishGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FishGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FishGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FishGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FishGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FishGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FishGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+              <item name="basecomponet" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/usr/androidsdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AwtMainComponet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mypro.basecomponet.AwtMainComponet" />
+      <module name="FishGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mypro.basecomponet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AwtMainComponet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bcb9ccc-9a8c-4899-9c41-2b6fa653994a" name="Default Changelist" comment="" />
+      <created>1563781961368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563781961368</updated>
+      <workItem from="1563781972502" duration="546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="546000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="2560" height="1444" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980111" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960477" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/mypro/model/GamingInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding>
+            <element signature="e#616#622#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
+            <element signature="e#1315#1316#0" expanded="true" />
+            <element signature="e#1753#1754#0" expanded="true" />
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1808#1809#0" expanded="true" />
+            <element signature="e#1833#1834#0" expanded="true" />
+            <element signature="e#1901#1902#0" expanded="true" />
+            <element signature="e#1923#1924#0" expanded="true" />
+            <element signature="e#1948#1949#0" expanded="true" />
+            <element signature="e#1981#1982#0" expanded="true" />
+            <element signature="e#2140#2141#0" expanded="true" />
+            <element signature="e#2162#2163#0" expanded="true" />
+            <element signature="e#2206#2207#0" expanded="true" />
+            <element signature="e#2237#2238#0" expanded="true" />
+            <element signature="e#2274#2275#0" expanded="true" />
+            <element signature="e#2292#2293#0" expanded="true" />
+            <element signature="e#2338#2339#0" expanded="true" />
+            <element signature="e#2361#2362#0" expanded="true" />
+            <element signature="e#2397#2398#0" expanded="true" />
+            <element signature="e#2418#2419#0" expanded="true" />
+            <element signature="e#2466#2467#0" expanded="true" />
+            <element signature="e#2495#2496#0" expanded="true" />
+            <element signature="e#2537#2538#0" expanded="true" />
+            <element signature="e#2563#2564#0" expanded="true" />
+            <element signature="e#2622#2623#0" expanded="true" />
+            <element signature="e#2661#2662#0" expanded="true" />
+            <element signature="e#2693#2694#0" expanded="true" />
+            <element signature="e#2718#2719#0" expanded="true" />
+            <element signature="e#2766#2767#0" expanded="true" />
+            <element signature="e#2803#2804#0" expanded="true" />
+            <element signature="e#2836#2837#0" expanded="true" />
+            <element signature="e#2862#2863#0" expanded="true" />
+            <element signature="e#2912#2913#0" expanded="true" />
+            <element signature="e#2951#2952#0" expanded="true" />
+            <element signature="e#2987#2988#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+            <element signature="e#3068#3069#0" expanded="true" />
+            <element signature="e#3109#3110#0" expanded="true" />
+            <element signature="e#3145#3146#0" expanded="true" />
+            <element signature="e#3172#3173#0" expanded="true" />
+            <element signature="e#3226#3227#0" expanded="true" />
+            <element signature="e#3267#3268#0" expanded="true" />
+            <element signature="e#3296#3297#0" expanded="true" />
+            <element signature="e#3317#3318#0" expanded="true" />
+            <element signature="e#3359#3360#0" expanded="true" />
+            <element signature="e#3388#3389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mypro/constant/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mypro/basecomponet/AwtMainComponet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="42" column="40" lean-forward="true" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding>
+            <element signature="e#1826#2355#0" expanded="true" />
+            <element signature="e#2354#2355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.5 (pyweb) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FishGame</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
