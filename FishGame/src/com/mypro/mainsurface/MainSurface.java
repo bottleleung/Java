@@ -231,8 +231,10 @@ public class MainSurface extends JPanel{
 
 
 		@Override
-		public void drawBitmap(Bitmap bitmap, Matrix matrix, Paint paint) {	
-			this.paint.getGraphics().drawImage(bitmap.getImage(),((JMatrix)matrix).trans, null);
+		public void drawBitmap(Bitmap bitmap, Matrix matrix, Paint paint) {
+			if(bitmap!=null) {
+				this.paint.getGraphics().drawImage(bitmap.getImage(), ((JMatrix) matrix).trans, null);
+			}
 		}
 		@Override
 		public void drawBitmap(Bitmap bitmap, float x, float y, Paint paint) {
